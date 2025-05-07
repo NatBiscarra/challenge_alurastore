@@ -51,5 +51,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 
 ## Agradecimentos
 À **Alura Latam** e à **Oracle** pelo conhecimento compartilhado através do programa **[ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)**.
+![badge](https://github.com/user-attachments/assets/6edcd2aa-c3b4-44d7-8902-1d6ea3b3e751)
 
 
