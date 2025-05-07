@@ -33,11 +33,21 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 
 ## 📊 Análises realizadas
 
-* **Análise do faturamento das loja:** Foi analisado o desempenho financeiro das quatro lojas e desempenho geral.  
+* **Análise do faturamento das loja:** Foi analisado o desempenho financeiro das quatro lojas e desempenho geral.
+   ![Faturamento](https://github.com/user-attachments/assets/99b54141-9abb-4274-b450-27ec0efc17e0)
+
 * **Vendas por Categoria:** Foi analisado o desempenho de vendas de diferentes categorias de produtos, identificando quais são as mais populares.
+  ![vendas_loja_categoria](https://github.com/user-attachments/assets/f8a705d8-dc11-47c6-a709-850cfaf4c1e9)
+
 * **Média de Avaliação das lojas:** Foram analisadas as avaliações feitas pelos clientes para cada loja, destacando as lojas com melhor e pior avaliação.
+  ![media_avaliacoes](https://github.com/user-attachments/assets/c576016f-211d-420c-a226-2798d556e428)
+
 * **Produtos Mais e Menos Vendidos:** Foram identificados os produtos com maior e menor volume de vendas, fornecendo uma visão sobre o que mais atrai os consumidores.
+  ![produtos_vendidos](https://github.com/user-attachments/assets/de764c2a-04c0-4e7d-840b-08da2e5c70d1)
+
 * **Frete Médio por Loja:** Foi calculado o frete médio cobrado por cada loja, identificando padrões e possíveis oportunidades de melhoria.
+  ![frete](https://github.com/user-attachments/assets/f303d2ed-264d-4bfa-9354-747d6b940be0)
+
 
 ## Agradecimentos
 À **Alura Latam** e à **Oracle** pelo conhecimento compartilhado através do programa **[ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)**.
